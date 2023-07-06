@@ -1,4 +1,7 @@
-![drawguess-logo](https://user-images.githubusercontent.com/106970874/250997584-592d28e2-ce11-49fd-bea3-036df138f025.png)
+
+<p align='center'>
+  <img src= 'https://user-images.githubusercontent.com/106970874/250997584-592d28e2-ce11-49fd-bea3-036df138f025.png'/>
+</p>
 
 DrawGuess is a online multiplayer video game that combines creativity and fun. 
 In DrawGuess, players are given a word or phrase to draw within a limited time frame. As the artist, your task is to create a visual representation of the given word using a variety of drawing tools and colors. Meanwhile, other players in the game must guess the word based on your drawing. 
